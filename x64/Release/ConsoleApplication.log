@@ -1,0 +1,15 @@
+﻿  GestureRecognition.cpp
+D:\opencv\opencv\build\include\opencv2\objdetect\aruco_board.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\study\C++project\ConsoleApplication\opencv_test.h(56,35): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+D:\study\C++project\ConsoleApplication\GestureRecognition.cpp(103,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\study\C++project\ConsoleApplication\GestureRecognition.cpp(410,29): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\study\C++project\ConsoleApplication\GestureRecognition.cpp(786,9): warning C4551: 缺少参数列表的函数调用
+D:\study\C++project\ConsoleApplication\GestureRecognition.cpp(73,20): warning C4101: “tie”: 未引用的局部变量
+D:\study\C++project\ConsoleApplication\GestureRecognition.cpp(73,9): warning C4101: “win”: 未引用的局部变量
+D:\study\C++project\ConsoleApplication\GestureRecognition.cpp(73,14): warning C4101: “lose”: 未引用的局部变量
+  正在生成代码
+  1 of 354 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ConsoleApplication.vcxproj -> D:\study\C++project\ConsoleApplication\x64\Release\GestureRecognition.exe
